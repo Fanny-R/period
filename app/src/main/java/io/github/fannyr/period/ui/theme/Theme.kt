@@ -1,4 +1,4 @@
-package com.example.period.ui.theme
+package io.github.fannyr.period.ui.theme
 
 import android.app.Activity
 import android.os.Build

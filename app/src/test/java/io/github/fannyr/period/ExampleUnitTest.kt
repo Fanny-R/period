@@ -1,4 +1,4 @@
-package com.example.period
+package io.github.fannyr.period
 
 import org.junit.Test
 

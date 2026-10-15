@@ -1,4 +1,4 @@
-package com.example.period.ui.theme
+package io.github.fannyr.period.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

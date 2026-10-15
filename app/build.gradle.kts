@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.period"
+    namespace = "io.github.fannyr.period"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.period"
+        applicationId = "io.github.fannyr.period"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
